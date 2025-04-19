@@ -35,7 +35,7 @@ DS4002_Project3/
 │   └── training_history_plot.png
 │
 ├── SCRIPT/                      
-│   └── chest_xray_model.ipynb
+│   └── DS4002_Project_3.ipynb
 │
 ├── LICENSE.md                   
 └── README.md                    
@@ -43,6 +43,6 @@ DS4002_Project3/
 
 ## 📦 How to Run
 
-1. Open the `SCRIPTS/DS4002 Poject 3.ipynb` notebook in Google Colab.
-2. Mount your Google Drive and upload the dataset to `/content/drive/...`
-3. Run all cells — model will train and output performance files to `/OUTPUT/`.
+1. Open the `SCRIPTS/DS4002_Project_3.ipynb` notebook in Google Colab.
+2. Mount your Google Drive and upload the dataset.
+3. Run all (analysis section) cells 
