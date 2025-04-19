@@ -3,13 +3,17 @@
 ## 📌 Project Overview
 
 This project applies image classification using a pre-trained EfficientNetV2S model to distinguish between **normal** and **pneumonia** chest X-ray images. The dataset is split into training, validation, and test sets, and a transfer learning approach is used to improve performance with limited computational resources.
-
+  
 ## 🎯 Goals
 
 - Classify chest X-rays as either **normal** or **pneumonia**
 - Fine-tune a pre-trained CNN to maximize performance
 - Evaluate the model using precision, recall, accuracy, and F1-score
 
+## 🛠️ Tool Stack
+- Platform: Google Colab
+- Libraries: tensorflow, keras, matplotlib, pandas, seaborn, numpy, sci-kit learn
+  
 ## 🧠 Model
 
 **EfficientNetV2S**
