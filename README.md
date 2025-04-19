@@ -27,17 +27,16 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 
 ```
 DS4002_Project3/
-├── DATA/                        # Contains dataset or download instructions
-│   └── README_DATA.txt          # Explains where/how to get the dataset
+├── DATA/                        
 │
-├── OUTPUT/                      # All model evaluation outputs
+├── OUTPUT/                      
 │   ├── classification_report.csv
 │   ├── confusion_matrix.png
 │   └── training_history_plot.png
 │
-├── SCRIPT/                      # Notebook and code for training & evaluation
+├── SCRIPT/                      
 │   └── chest_xray_model.ipynb
 │
-├── LICENSE.md                   # MIT License
-└── README.md                    # Project overview, how to run, results
+├── LICENSE.md                   
+└── README.md                    
 ```
