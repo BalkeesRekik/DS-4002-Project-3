@@ -41,7 +41,7 @@ DS4002_Project3/
 └── README.md                    
 ```
 
-## 📦 How to Run
+## 📦 How to Run 
 
 1. Open the `SCRIPTS/DS4002_Project_3.ipynb` notebook in Google Colab.
 2. Mount your Google Drive and upload the dataset.
