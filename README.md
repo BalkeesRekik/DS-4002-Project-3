@@ -40,3 +40,9 @@ DS4002_Project3/
 ├── LICENSE.md                   
 └── README.md                    
 ```
+
+## 📦 How to Run
+
+1. Open the `SCRIPTS/DS4002 Poject 3.ipynb` notebook in Google Colab.
+2. Mount your Google Drive and upload the dataset to `/content/drive/...`
+3. Run all cells — model will train and output performance files to `/OUTPUT/`.
