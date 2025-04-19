@@ -25,4 +25,4 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 | Pneumonia Recall | 96.7% |
 | F1 Score (Avg) | ~92.9% |
 
-
+DS4002_Project3/ ├── SCRIPTS/ │ └── chest_xray_model.ipynb ├── OUTPUT/ │ ├── classification_report.csv │ ├── confusion_matrix.png │ ├── training_history_plot.png ├── LICENSE.md ├── README.md └── data_appendix.pdf (if required)
