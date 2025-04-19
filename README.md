@@ -14,10 +14,7 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 
 ## 🧠 Model
 
-- Architecture: **EfficientNetV2S**
-- Layers: GlobalAveragePooling2D + Dense + Dropout
-- Optimizer: Adam
-- Loss: Binary Crossentropy
+**EfficientNetV2S**
 - Epochs: Set to 30, **stopped early at 21** using early stopping
 - Fine-tuned base model (after initial training)
 
@@ -30,11 +27,4 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 | Pneumonia Recall | 96.7% |
 | F1 Score (Avg) | ~92.9% |
 
-### ✅ Confusion Matrix
-![Confusion Matrix](OUTPUT/confusion_matrix.png)
-
-### 📈 Training History
-![Training Plot](OUTPUT/training_history_plot.png)
-
-## 📁 Project Structure
 
