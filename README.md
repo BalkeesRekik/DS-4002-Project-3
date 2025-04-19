@@ -1,5 +1,3 @@
-# DS-4002-Project-3
-
 # Chest X-Ray Image Classification (DS 4002 Project 3)
 
 ## 📌 Project Overview
