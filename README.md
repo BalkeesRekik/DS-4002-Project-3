@@ -25,17 +25,19 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 | Pneumonia Recall | 96.7% |
 | F1 Score (Avg) | ~92.9% |
 
+```
 DS4002_Project3/
 ├── DATA/                        # Contains dataset or download instructions
-│   └── README_DATA.txt          # Instructions on where/how to get the dataset
+│   └── README_DATA.txt          # Explains where/how to get the dataset
 │
 ├── OUTPUT/                      # All model evaluation outputs
 │   ├── classification_report.csv
 │   ├── confusion_matrix.png
 │   └── training_history_plot.png
 │
-├── SCRIPT/                      # Your notebook and any Python code
-│   └── chest_xray_model.ipynb   # Main model training + evaluation notebook
+├── SCRIPT/                      # Notebook and code for training & evaluation
+│   └── chest_xray_model.ipynb
 │
 ├── LICENSE.md                   # MIT License
 └── README.md                    # Project overview, how to run, results
+```
