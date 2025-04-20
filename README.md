@@ -17,7 +17,7 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 ## 🧠 Model
 
 **EfficientNetV2S**
-- Epochs: Set to 30, **stopped early at 21** using early stopping
+- Epochs: Set to 30, **stopped early at 15** using early stopping
 - Fine-tuned base model (after initial training)
 
 ## 📊 Performance Summary (on Test Set
