@@ -20,14 +20,15 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 - Epochs: Set to 30, **stopped early at 21** using early stopping
 - Fine-tuned base model (after initial training)
 
-## 📊 Performance Summary (on Test Set)
+## 📊 Performance Summary (on Test Set
 
-| Metric        | Value    |
-|---------------|----------|
-| Accuracy      | **93.4%** ✅ |
-| Normal Recall | 88.0% |
-| Pneumonia Recall | 96.7% |
-| F1 Score (Avg) | ~92.9% |
+| Metric            | Value     |
+|-------------------|-----------|
+| Accuracy          | 93.9% ✅   |
+| Normal Recall     | 91.5%     |
+| Pneumonia Recall  | 95.4%     |
+| F1 Score (Avg)    | ~93.5%    |
+
 
 ```
 DS4002_Project3/
