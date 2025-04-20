@@ -24,7 +24,7 @@ This project applies image classification using a pre-trained EfficientNetV2S mo
 
 | Metric            | Value     |
 |-------------------|-----------|
-| Accuracy          | 93.9% ✅   |
+| Accuracy          | 93.9%   |
 | Normal Recall     | 91.5%     |
 | Pneumonia Recall  | 95.4%     |
 | F1 Score (Avg)    | ~93.5%    |
